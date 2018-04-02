@@ -18,8 +18,8 @@ This command line utility named EquationSolver.py when run by using following co
 Gives output solutions to all the equations in the image file to console.
 
 ## Pre-Requisites:
-   Python(version 3):
-   --------------------
+------------------
+   ### Python(version 3):
           - Image , PIL
           - Pytesseract
           - argparse
